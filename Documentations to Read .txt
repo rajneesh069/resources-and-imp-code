@@ -1,0 +1,7 @@
+Documentations to Read : 
+1. Mongoose
+2. MongoDB
+3. Mailchimp API
+4. Open Weather API
+5. Express
+6. Node JS
