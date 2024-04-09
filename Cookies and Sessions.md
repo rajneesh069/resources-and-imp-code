@@ -1,0 +1,1 @@
+﻿Sessions are server-side files that store the user information, whereas Cookies are client-side files that contain user information on a local computer. Sessions are cookies dependent, whereas Cookies are not dependent on Session.
